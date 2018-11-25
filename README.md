@@ -1,3 +1,5 @@
+# logAnalysis
+
 This source code solves the three following questions based on the news database-
     1. What are the most popular three articles of all time?
     2. Who are the most popular article authors of all time?
